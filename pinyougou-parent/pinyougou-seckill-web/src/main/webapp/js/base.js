@@ -1,0 +1,1 @@
+var app=angular.module("pinyougou",[])//构建品优购模块，无分页
